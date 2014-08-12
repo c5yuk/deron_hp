@@ -1,0 +1,89 @@
+{
+	"live": [  
+        {  
+            "label": "2014/10/12　＠DIVING ROCK 2014"
+        },
+        {  
+            "label": "2014/9/23　＠名古屋TIGHTROPE"
+        },    
+        {  
+            "label": "2014/8/29~　＠八丈島"
+        },
+        {
+            "label": "2014/8/24　＠大鳥居club EARTH"
+        },    
+        {  
+            "label": "2014/8/23　＠CLUB TOP'S 鎌田"  
+        },         
+        {  
+            "label": "2014/8/2　＠下北沢ERA"
+        },   
+        {  
+            "label": "2014/7/20　＠柏DOMe" 
+        },    
+        {  
+            "label": "2014/6/26　＠下北沢ERA" 
+        },    
+        {  
+            "label": "2014/6/22　＠横浜B.B.street"
+        },    
+        {  
+            "label": "2014/6/21　＠池袋マンホール" 
+        },    
+        {  
+            "label": "2014/6/15　＠下北沢GARAGE" 
+        },    
+        {  
+            "label": "2014/5/24　＠静岡UMBER"
+        },    
+        {  
+            "label": "2014/5/18　＠栄タイトロープ" 
+        },    
+        {  
+            "label": "2014/5/15　＠横浜B.B.street" 
+        },    
+        {  
+            "label": "2014/5/8　＠渋谷CHELSEA HOTEL" 
+        },    
+        {  
+            "label": "2014/5/15　＠横浜B.B.street"
+        },    
+        {  
+            "label": "2014/4/28　＠横浜ギャラクシー" 
+        },    
+        {  
+            "label": "2014/4/24　＠横浜B.B.street" 
+        },    
+        {  
+            "label": "2014/4/18　＠柏DOMe"
+        },    
+        {  
+            "label": "2014/3/29　＠横浜B.B.street"
+        },    
+        {  
+            "label": "2014/3/15　＠奈良NAVERLAND"
+        }
+    ],
+    "news": [
+        {
+            "label": "2014/7/31",
+            "linkLabel": "http://deronderonderon.com/yoake/",
+            "detail" : "yo a ke MV公開特設サイトをオープンしました！"
+        }, 
+        {
+            "label": "2014/7/28",
+            "linkLabel": "live.html",
+            "detail" : "ロッキン決まりました！"
+        },  
+        {
+            "label": "2014/7/15",
+            "linkLabel": "live.html",
+            "detail" : "live情報を更新しました。"
+        },  
+        {
+            "label": "2014/7/13",
+            "linkLabel": "bio.html",
+            "detail" : "新しいアーティスト写真を公開しました！！"
+        }
+    ]
+}       
