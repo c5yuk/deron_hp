@@ -1,0 +1,125 @@
+@charset "UTF-8";
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+margin:0;
+padding:0;
+font-size:14px;
+background-image:url(../images/t_top.png);
+background-repeat: no-repeat;            /* 背景を繰り返さない */
+  background-position: 50% 50%;            /* 背景画像の位置は画面中央 */
+  background-attachment:fixed;             /* 背景画像を固定する */
+background-size:1300px;
+
+}
+
+.t_top{
+	height:700px;
+	width:1300px;
+	}
+	
+#header{
+	height:35px;
+	width:1300px;
+	background-image:url(../images/footer.png);
+	}
+	
+.button{
+	margin-right:20px;
+	margin-top:5px;
+	float:right;}
+
+#top_1{
+	width:1300px;
+	height:700px;
+	background-repeat: no-repeat;
+	background-image:url(../images/back_1.png);
+	background-size:100% auto;
+	background-position: 50% 50%;
+	margin-bottom:0;
+	padding-bottom:0;
+	
+	}
+	
+#top_2{
+	width:1300px;
+	height:800px;
+	background-repeat: no-repeat;
+	background-image:url(../images/back_2.png);
+	background-size:100% auto;
+	background-position: 50% 50%; 
+	margin-bottom:0;
+	padding-bottom:0;
+	}
+	
+#footer{
+	width:1300px;
+	height:30px;
+	color:#FFF;
+	text-align:center;
+	background-image:url(../images/footer.png);
+	background-repeat: no-repeat;
+	background-size:100% auto;
+	background-position: 50% 50%;
+	margin-bottom:0;
+	padding-bottom:0;
+	}
+	
+.ex{
+	background-color:#FFF;
+	border-style:groove;
+	width:60%;
+	margin:0 auto;}
+.info{
+	margin-left:100px;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;}
+
+.center{
+	text-align:center;}
+	
+.width{
+	width:1300px;}
+
+.null{
+	height:50px;}
+.catch{
+	margin-left:80px;
+	}
+	
+#main{
+	width:90%;
+	margin:0 auto;}
+
+.main_contents{
+	width:100%;
+	margin:auto 0;
+	margin-bottom:2%;
+}
+
+.left_text{
+	float:left;
+	width:40%;
+	}
+	
+.right_image{
+	float:right;
+	width:40%;
+	margin-right:2%;}
+
+.clear{
+	clear:both;
+}
+h3{
+	margin-left:100px;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size:24px;}
+
+
+
+#pagetop {
+position:fixed;
+right:80px;
+bottom:0px;
+
+}

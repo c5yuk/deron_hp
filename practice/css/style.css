@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+}
+
+.head_br{
+	min-height:4000px;
+	}
+	
+.top{
+	position:relative;
+	z-index:1;
+	width:600px;
+	height:1000px;
+	margin:0 auto;}
+	
+.null{
+	min-height:200px;}

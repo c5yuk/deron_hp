@@ -1,0 +1,27 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	margin:0;
+	padding:0;
+	font-size:16px;
+	background-image:url(../images/dddtop2.png);
+	background-size:100%;
+	background-position:top;
+	background-attachment:fixed;
+	background-repeat:no-repeat;
+}
+
+.pop{
+	position:fixed;
+	top:40px;
+	right:150px;}
+
+.enter{
+	margin-top:15%;
+	text-align:center;
+	}
+.enter img{
+	width:23%;
+	}

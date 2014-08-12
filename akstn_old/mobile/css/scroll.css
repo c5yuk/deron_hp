@@ -1,0 +1,174 @@
+html, body {
+	position:absolute;
+	background-image:url(../images/wood_bg.png);
+	background-size:100%;
+	 
+	 }
+
+	.null{
+		min-height:200px;}
+	
+	.button{
+		width:100px;
+		z-index:1;
+		position:absolute;
+		top:70px;
+		right:170px;}
+	
+	
+	.link{
+		margin-top:200px;
+		width:200px;
+		margin:0 auto;}
+	 nav {
+		 text-align:center;
+	   width: 950px;
+	   right: 0px;
+	   z-index: 2;
+	   background:#FFF;
+	 }
+	 
+	 .menu{
+	width:95%;
+	margin:0 auto;
+	}
+
+	 li {
+	   width: 25%;
+	   height: 50px;
+	   text-align: center;
+	   cursor: pointer;
+	 }
+
+	 article {
+	   width: 100%;
+	   height: 4800px;
+	   position: relative;
+	   overflow: hidden;
+	 }
+	 
+	 .contents{
+		 width:95%;
+		 margin:0 auto;
+		 }
+
+	p{
+		font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+		 line-height:20px;
+		 letter-spacing:3px;
+		margin:0 0 15px 0;
+		padding:0;
+	}
+	
+	.pink{
+	color:#009;}
+	
+	 #page1 {
+	   width: 100%;
+	   height: 100%;
+	  
+	   position: absolute;
+	   top: 0;
+	   left: 0;
+	 }
+
+	 #page2 {
+	   width: 100%;
+	   height: 100%;
+	   position: absolute;
+	   top: 0;
+	   left: 100%;
+	 }
+
+	 #page3 {
+	   width: 100%;
+	   height: 2000px;
+	   position: absolute;
+	   top: 0;
+	   left: 200%;
+	 }
+
+	 #page4 {
+	   width: 100%;
+	   height: 100%;
+	   position: absolute;
+	   top: 0;
+	   left: 300%;
+	 }
+
+	 #page5 {
+	   width: 100%;
+	   height: 100%;
+	   background: #e74c3c;
+	   position: absolute;
+	   top: 0;
+	   left: 400%;
+	 }
+
+
+
+html {
+    color: #000;
+    background: #FFF
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset,
+legend, input, button, textarea, select, blockquote, th, td {
+    margin: 0;
+    padding: 0
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+fieldset, img {
+    border: 0
+}
+
+address, button, caption, cite, code, dfn, em, input, optgroup, option,
+select, strong, textarea, th, var {
+    font: inherit
+}
+
+del, ins {
+    text-decoration: none
+}
+
+li {
+    list-style: none
+}
+
+caption, th {
+    text-align: left
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal
+}
+
+q:before, q:after {
+    content: ''
+}
+
+abbr, acronym {
+    border: 0;
+    font-variant: normal
+}
+
+sup {
+    vertical-align: baseline
+}
+
+sub {
+    vertical-align: baseline
+}
+
+legend {
+    color: #000
+}
+
+
+

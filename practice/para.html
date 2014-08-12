@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+	<title>skrollr - parallax scrolling for the masses</title>
+
+	<link href="css/fixed-positioning.css" rel="stylesheet" type="text/css" />
+	<link href="css/main.css" rel="stylesheet" type="text/css" />
+    
+    <link rel="stylesheet" href="css/style.css" type="text/css" media="screen"/>
+    
+    <script src="js/jquary.js"></script>
+<script>
+$(function() {
+    var p = $(".top").offset().top;
+    $('body,body').animate({ scrollTop: p }, 2700);
+    return false;
+});
+</script>
+
+
+</head>
+<body>
+<div id="bg1" class="parallax" data-0="background-position:0px 0px;" data-end="background-position:-100% -1600%;" ></div>
+<div id="bg2" class="parallax" data-0="background-position:0px 0px;" data-end="background-position:-50% -1300%;" ></div>
+<div id="bg3" class="parallax" data-0="background-position:0px 0px;" data-end="background-position:-25% -900%;" ></div>
+
+		<div class="head_br">
+        </div>
+        <div class="top">
+        <div class="null">
+        </div>
+        <img src="images/kibou.png" width="100%">
+        </div>
+
+<script type="text/javascript" src="js/skrollr.min.js"></script>
+
+	<script type="text/javascript">
+	var s = skrollr.init({
+		edgeStrategy: 'set',
+		easing: {
+			WTF: Math.random,
+			inverted: function(p) {
+				return 1-p;
+			}
+		}
+	});
+	</script>
+    
+    
+    
+</body>
+</html>

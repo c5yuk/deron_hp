@@ -1,0 +1,182 @@
+html, body {
+	position:absolute;
+	background-image:url(../images/wood_bg.png);
+	background-size:100%;
+	 
+	 }
+
+	.null{
+		min-height:200px;}
+	
+	.button{
+		width:100px;
+		z-index:1;
+		position:fixed;
+		top:70px;
+		right:170px;}
+	
+	.wrap{
+		z-index:auto;
+		width:100%;
+		height:100%;
+		 background-image:url(../images/bg_note.png);
+	   background-size:100%;
+	   background-repeat:no-repeat;
+	   background-position:bottom;}
+	
+	.link{
+		margin-top:200px;
+		width:200px;
+		margin:0 auto;}
+	 nav {
+	   width: 100%;
+	   height: 63px;
+	   position: fixed;
+	   top: 0px;
+	   right: 0px;
+	   z-index: 2;
+	   background-color:#000;	 }
+
+	 li {
+	   width: 150px;
+	   height: 50px;
+	   text-align: center;
+	   float: left;
+	   cursor: pointer;
+	 }
+
+	 article {
+	   width: 100%;
+	   height: 100%;
+	   position: relative;
+	   overflow: hidden;
+	 }
+	 
+	 .contents{
+		 width:50%;
+		 height:450px;
+		 margin-left:180px;
+		 margin-top:150px;
+		 
+		 overflow:scroll;}
+
+	p{
+		font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+		 line-height:20px;
+		 letter-spacing:3px;
+		margin:0 0 15px 0;
+		padding:0;
+	}
+	
+	.pink{
+	color:#009;}
+	
+	 #page1 {
+	   width: 100%;
+	   height: 100%;
+	  
+	   position: absolute;
+	   top: 0;
+	   left: 0;
+	 }
+
+	 #page2 {
+	   width: 100%;
+	   height: 100%;
+	   position: absolute;
+	   top: 0;
+	   left: 100%;
+	 }
+
+	 #page3 {
+	   width: 100%;
+	   height: 100%;
+	   position: absolute;
+	   top: 0;
+	   left: 200%;
+	 }
+
+	 #page4 {
+	   width: 100%;
+	   height: 100%;
+	   position: absolute;
+	   top: 0;
+	   left: 300%;
+	 }
+
+	 #page5 {
+	   width: 100%;
+	   height: 100%;
+	   background: #e74c3c;
+	   position: absolute;
+	   top: 0;
+	   left: 400%;
+	 }
+
+
+
+html {
+    color: #000;
+    background: #FFF
+}
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset,
+legend, input, button, textarea, select, blockquote, th, td {
+    margin: 0;
+    padding: 0
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0
+}
+
+fieldset, img {
+    border: 0
+}
+
+address, button, caption, cite, code, dfn, em, input, optgroup, option,
+select, strong, textarea, th, var {
+    font: inherit
+}
+
+del, ins {
+    text-decoration: none
+}
+
+li {
+    list-style: none
+}
+
+caption, th {
+    text-align: left
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-size: 100%;
+    font-weight: normal
+}
+
+q:before, q:after {
+    content: ''
+}
+
+abbr, acronym {
+    border: 0;
+    font-variant: normal
+}
+
+sup {
+    vertical-align: baseline
+}
+
+sub {
+    vertical-align: baseline
+}
+
+legend {
+    color: #000
+}
+
+
+

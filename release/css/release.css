@@ -1,0 +1,123 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin:0 auto;
+	padding:0;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	width:100%;
+	background-image:url(../images/album_release.png);
+	background-size:1400px;
+	background-position:top;
+	background-repeat:no-repeat;
+	background-attachment:fixed; 
+}
+
+.contents{
+	margin:0 auto;
+	text-align:center;
+	width:980px;
+	}
+	
+.image{
+	margin:0 auto;
+	margin-top:50px;
+	text-align:center;
+	color:#FFF;
+	}
+	
+.image2{
+	margin:0 auto;
+	margin-top:40px;
+	text-align:center;
+	color:#FFF;
+	}
+.intro{
+	width:800px;
+	margin-top:20px;
+	margin:0 auto;}
+.clear{
+	clear:both;}
+
+.intro p{
+	color:#FFF;}
+	
+.pic{
+	width:230px;
+	float:left;}
+.text{
+	margin-left:20px;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size:14px;
+	width:380px;
+	float:left;}
+.credit{
+	margin:0 auto;
+	width:100%;
+	background-color:#FFF;}
+
+
+	
+ul{
+	list-style:none;}
+
+.menu{
+	margin-top:50px;}
+.menu p{
+	color:#FF0;
+	font-size:16px;}
+
+.footer{
+	position:fixed;
+	bottom:0px;
+	height:35px;
+	width:100%;
+	background-color:#000;}
+.button{
+	margin-top:7px;
+	margin-left:50px;}
+
+.disk_infomation{
+	margin-top:100px;}
+
+a{
+	text-decoration:none;}
+	
+#pagetop{
+	position:fixed;
+	right:90px;
+	bottom:70px;}
+
+p{	color:#FFF;
+	font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;}
+	
+.event{
+	width:800px;
+	margin:0 auto;}
+	h1{
+		text-align:center;
+		font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+		color:#FFF;}
+.person{
+	float:left;
+	width:20%;}
+.info{
+	float:left;
+	width:40%;
+	}
+.event p{
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size:16px;
+	font-weight:300;}
+/*
+	以後後ほど消去
+	*/
+
+h1{
+	color:#FFF;}
+	

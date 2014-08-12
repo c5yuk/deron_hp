@@ -1,0 +1,455 @@
+@charset "UTF-8";
+
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	margin: 0;
+	font-family: 
+	  "Hiragi no Kaku Gothic Pro",
+		"ヒラギノ角ゴ Pro W3",
+		Meiryo,
+		"メイリオ",
+		Osaka,
+		"MS PGothic",
+		"ＭＳ Ｐゴシック",
+		sans-serif;
+	background-image:url(../images/breaker2.png);
+	background-size:1300px;
+	background-repeat:no-repeat;
+	background-attachment:fixed;
+}
+
+.space{
+	height:170px;}
+
+p{
+	color:#333;
+}
+
+
+#container{
+	width:100%;
+}
+
+#header{
+	position: fixed !important; 
+	position: absolute;  
+	top:0;
+	left:0;
+	width:100%;
+	height:60px;
+	z-index:3;
+}
+
+#headerLogo {
+	position:relative;
+	float:left;
+	left: 20px;
+	top: 7px;
+}
+	
+#navi{
+	float: right;
+	position:relative;
+	top: 13px;
+	margin-right:15px;
+}
+
+#navi ul{
+	width: 680px;
+	list-style-type: none;
+	overflow: hidden;
+}
+
+#navi li{
+	float: left;  
+    text-align: center;  
+	border-left:1px solid #333;
+	margin-left: -1px; 
+	width: 120px;
+	height: 30px;
+}
+
+#navi li a  {  
+    display: block;  
+	color:#333;
+	text-decoration:none;
+	font-size:12px;
+	font-weight:bold;
+    width: 120px;  
+    padding: 5px 0;   
+} 
+
+#navi li a:hover {  
+	color:#FF3300;
+} 
+
+#MV ul{
+	width:100%;}
+#MV li{
+	float: left;
+	width:100%;
+	position:relative;
+	}
+
+#main{
+	overflow:hidden;
+	height:80%;
+	margin:0 auto;
+	padding:80px 0 60px 0;	
+}
+
+.contents{
+	position:relative;
+	margin: 0 auto;
+    width:60%;
+	overflow: auto; 
+	
+}
+
+.contents span {
+  position: relative;
+  top: -80px;
+  display: block;
+}
+
+.textarea{
+	width:95%;
+	margin:0 auto;
+	}
+
+.topimage{
+	margin-left:100px;
+	margin-top:20px;}
+
+h1{
+	font-family:Arial, Helvetica, sans-serif:
+	padding:20px 0;
+	color:#333;
+	font-size:45px;
+	font-weight:bold;
+	line-height:60px;
+	margin:0 auto;
+	margin-top:20px;
+}
+
+.midashi{
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	padding:20px 0;
+	font-size:25px;
+	font-weight:bold;
+	margin:0;
+	color:#586376;
+	
+}
+
+.midashi_small{
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-size:20px;
+	font-weight:bold;
+	color:#2a7d98;
+	
+}
+
+
+
+section{ 
+	width:100%;
+	min-height:700px;
+	text-align:left;
+}
+
+
+
+#Sleft{
+	float:left;
+	margin:20px 0;
+	width:60%;
+	height:500px;
+	/*
+	background-color:rgba(255,255,255,0.5);
+	*/
+}
+
+#Sright{
+	float:right;
+	margin:20px 0;
+	width:39%;
+	height:500px;
+
+}
+
+
+/*
+#vision p{
+	color:#222;
+	font-size:24px;
+	line-height:32px;
+	text-shadow:0 1px 2px #fff;
+	margin:15px auto;
+	
+}
+*/
+
+#vision h2{
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	margin:30px auto;
+	padding:0;
+	font-size:50px;	
+	line-height:56px;
+	color:#222;
+}
+
+.image{
+	text-align:center;
+}
+
+#mission{
+	width:100%;
+	background-image:url(../images/background_tile_1.png);
+}
+
+.mission_logo{
+	margin:20px auto;
+}
+
+.headP{
+font-size:18px;
+	color:#333;
+	line-height:48px;
+	text-shadow:0 1px 2px #fff;
+	margin:0 auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:400;
+}
+.contentsP{
+	font-size:18px;
+	color:#333;
+	line-height:48px;
+	text-shadow:0 1px 2px #fff;
+	margin:0 auto;
+	font-family:Arial, Helvetica, sans-serif;
+	font-weight:400;
+}
+
+.s{
+	font-size:16px;
+	color:#2a7d98;
+	line-height:35px;
+	margin:0 auto;
+	margin-bottom:15px;
+	}
+	
+.f{
+	font-size:16px;
+	color:#333;
+	line-height:35px;
+	margin:0 auto;
+	margin-bottom:15px;
+	}
+	
+p{
+	font-size:16px;
+	line-height:35px;
+	color:#2c2c2c;
+	margin:0 auto;
+	margin-bottom:15px;
+}
+
+
+.b{
+	font-size:20px;
+	color:#009;
+	line-height:30px;
+	margin:0 auto;
+	margin-bottom:15px;
+	}
+	
+.sb{
+	font-size:20px;
+	color:#2a7d98;
+	line-height:30px;
+	margin:0 auto;
+	margin-bottom:15px;
+	}
+	
+.fb{
+	font-size:20px;
+	color:#333;
+	line-height:30px;
+	margin:0 auto;
+	margin-bottom:15px;
+	}
+	
+.mb{
+	font-size:20px;
+	color:#883a4f;
+	line-height:30px;
+	margin:0 auto;
+	margin-bottom:15px;
+	}
+	
+
+.m{
+	color:#883a4f;
+	}
+	
+.l_text{
+	color:#333;}
+	
+.foot{
+	text-align:center;
+	min-height:300px;
+	margin-bottom:0;}
+
+.Phead{
+	margin:40px 0 20px;
+	background-color:rgba(100,100,100,0.7);
+}
+
+.main_area{
+	width:100%;
+	margin:10px auto;
+}
+
+
+
+.kantoku_area{
+	width:100%;
+	margin:10px auto;
+	background-color:#FFF;
+}
+	
+	
+#mission h2{
+	position:relative;
+	margin:20px 10px;
+	padding:0 10px;
+	font-size:24px;	
+	line-height:36px;
+	color:#fff;
+}
+
+
+
+
+#company h2{
+	position:relative;
+	margin:20px 10px;
+	padding:0 10px;
+	font-size:24px;	
+	line-height:30px;
+	color:#fff;
+}
+
+.profile{
+	position:relative;
+	margin-top:50px;
+	float:left;
+	width:100%;
+}
+
+.profile table td{
+   padding:5px;
+   color:#222;
+   font-size:16px;
+   text-align:left;
+   border-style:none;
+   border-bottom:1px solid #fff;
+   height:40px;
+}
+
+.l_Cel{
+	width:150px;
+
+}
+
+#contact{
+	background-image:url(../images/background_tile_1.png);
+}
+
+
+.form_area{
+	margin:100px auto;
+	color:#fff;
+}
+
+.form_left{
+	float:left;
+	width:50%;
+}
+
+.form_right{
+	float:left;
+	width:50%;
+}
+
+.clear{
+	clear:both;
+}
+
+.form_btn{
+	width:50%;
+	float:right;
+	text-align:right;
+}
+
+.formD{
+	font-size:16px;
+	color:#aaa;
+	border:solid 1px #ccc;
+	margin:5px auto;
+	padding:0;
+	width:400px;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	width:80%;
+	height:30px;
+
+}
+
+.formM{
+	margin:5px auto;
+	padding:0;
+	font-size:16px;
+	color:#aaa;
+	border:solid 1px #ccc;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	width:99%;
+	height:170px;
+
+}
+
+
+.formB{
+	border:solid 1px #ccc;
+	margin:15px auto;
+	padding:10px 15px;
+	font-size:16px;
+	text-transform:uppercase;
+	color:#fff;
+	cursor:pointer;
+	background:rgba(102,0,0,0.5);
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	-o-border-radius: 5px;
+	border-radius: 5px;
+
+}
+
+
+.button{
+	width:100px;
+	position:fixed;
+	bottom:30px;
+	right:40px;}
+	
+.null{
+	min-height:50px;}

@@ -1,0 +1,60 @@
+
+body{
+	width:100%;
+	background-image:url(../images/hachijo_back.png);
+	background-size:100%;}
+	
+.main_area{
+	position:relative;
+	width:95%;
+	}
+	
+.spacer{
+	min-height:100px;}
+	
+p{
+	font-size:24px;
+	color:#2e3940;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	}
+
+
+
+.logo{
+	min-height:600px;
+	width:100%;
+	margin:0 auto;
+	text-align:center;
+	margin-bottom:70px;	
+	}
+
+.contents{
+	margin:0 auto;
+	margin-bottom:50px;
+	text-align:center;
+	width:100%;
+	}
+	
+.musician{
+	width:100%;
+	overflow:hidden;
+	margin:0 auto;
+	text-align:center;}
+	
+
+.picture{
+	width:100%;
+	overflow:hidden;
+	margin:0 auto;
+	padding-top:0px;
+	}
+
+
+#footer{
+	position:static;
+	bottom:0;
+	padding-bottom:0;
+	width:100%;
+	}
+
+

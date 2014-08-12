@@ -1,0 +1,106 @@
+@charset "UTF-8";
+/* CSS Document */
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	margin:0 auto;
+	padding:0;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	width:100%;
+	}
+
+.background {
+    z-index                 : -1;
+    background-color        : #cccccc;
+	background-image:url(../images/mobile_back.png);
+    background-repeat       : no-repeat;
+    background-size         : 100% auto;
+    position                : fixed;
+    top                     : 0;
+    left                    : 0;
+    right                   : 0;
+    bottom                  : 0;
+}
+
+.contents{
+	margin:0 auto;
+	text-align:center;
+	width:100%;
+	}
+	
+.image{
+	margin:0 auto;
+	margin-top:50px;
+	text-align:center;
+	color:#FFF;
+	}
+	
+.image2{
+	margin:0 auto;
+	margin-top:40px;
+	text-align:center;
+	color:#FFF;
+	}
+
+	
+.credit{
+	margin:0 auto;
+	width:100%;
+	background-color:#FFF;}
+
+
+	
+ul{
+	list-style:none;}
+
+.menu{
+	margin-top:50px;}
+.menu p{
+	color:#FF0;
+	font-size:16px;}
+
+.footer{
+	position:fixed;
+	bottom:-5px;
+	height:35px;
+	width:100%;
+	background-color:#000;}
+.button{
+	text-align:center;
+	margin-top:6px;}
+
+.disk_infomation{
+	margin-top:50px;
+	}
+
+a{
+	text-decoration:none;}
+p{	
+color:#FFF;
+	font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	font-size:10px;
+}
+.person{
+	clear:both;
+	margin:0 auto;
+	margin-top:20px;
+	color:#FFF;
+	}
+
+h1{
+	font-family:"ＭＳ Ｐ明朝", "MS PMincho", "ヒラギノ明朝 Pro W3", "Hiragino Mincho Pro", serif;
+	color:#FFF;
+	font-size:16px;}
+	
+/*
+	以後後ほど消去
+	*/
+
+h1{
+	color: #FFF;
+}
+	

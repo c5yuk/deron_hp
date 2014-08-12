@@ -1,0 +1,37 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	margin:0;
+	padding:0;
+	background-color:#CCC;
+	}
+	
+#header{
+	margin:0;
+	padding:0;
+	height:35px;
+	width:100%;
+	background-color:#CCC;
+	}
+	
+.button{
+	margin-right:2%;
+	margin-top:7px;
+	float:right;}
+
+p{
+	margin:0;
+	padding:0;
+	top:0px;}
+
+.main{
+	margin:0;
+	padding:0;
+	top:0px;
+	width:100%;}
+
+.center{
+	margin-top:10px;
+	text-align:center;
+	font-family:"ＭＳ ゴシック", "MS Gothic", "Osaka－等幅", Osaka-mono, monospace;}
