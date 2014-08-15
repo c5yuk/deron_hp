@@ -4,7 +4,6 @@ httpObj.onload = function(){
 var myData = JSON.parse(this.responseText);
 var liveTxt = "";
 var newsTxt = "";
-var mobileNewsTxt = "";
 for (var i=0; i<myData.live.length; i++){
 	liveTxt = liveTxt + "<p class='info'>" + myData.live[i].label + "</p><hr />";
 }
