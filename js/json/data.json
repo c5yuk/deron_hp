@@ -11,6 +11,12 @@
         },  
         {  
             "label": "2014/9/23　＠名古屋TIGHTROPE"
+        },
+        {  
+            "label": "2014/9/21　2014/9/21　＠渋谷TSUTAYA Glad"
+        }, 
+        {  
+            "label": "2014/9/5　＠渋谷TSUTAYA O-Crest"
         },    
         {  
             "label": "2014/8/29~　＠八丈島"
@@ -71,6 +77,26 @@
         }
     ],
     "news": [
+        {
+            "label": "2014/9/07",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
+        {
+            "label": "2014/9/07",
+            "linkLabel": "http://deronderonderon.com/dododo/",
+            "detail" : "DODODO MV公開特設サイトをオープンしました！"
+        }, 
+        {
+            "label": "2014/9/2",
+            "linkLabel": "http://ro69.jp/news/detail/109003?rtw",
+            "detail" : "ROCK IN JAPAN FESでのライブ動画が公開されました！"
+        }, 
+        {
+            "label": "2014/8/20",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        },                      
         {
             "label": "2014/7/31",
             "linkLabel": "http://deronderonderon.com/yoake/",
