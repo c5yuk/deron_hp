@@ -1,7 +1,7 @@
 var loadJson = function(){
 
 httpObj = new XMLHttpRequest();
-httpObj.open("get", "../js/json/data.json", true);
+httpObj.open("get", "js/json/data.json", true);
 httpObj.onload = function(){
 var myData = JSON.parse(this.responseText);
 var liveTxt = "";
