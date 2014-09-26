@@ -1,3 +1,5 @@
+var loadJson = function(){
+
 httpObj = new XMLHttpRequest();
 httpObj.open("get", "../js/json/data.json", true);
 httpObj.onload = function(){
@@ -14,3 +16,7 @@ document.getElementById("liveInfo").innerHTML = liveTxt;
 document.getElementById("newsInfo").innerHTML = newsTxt;
 }
 httpObj.send(null);
+
+}
+
+loadJson();
