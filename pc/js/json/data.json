@@ -1,5 +1,8 @@
 {
-	"live": [  
+	"liveTop": [  
+        {  
+            "label": "2014/11/14 @新宿MARZ"
+        }, 
         {  
             "label": "2014/10/26 @下北沢GARAGE"
         }, 
@@ -78,6 +81,11 @@
     ],
     "news": [
         {
+            "label": "2014/9/22",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
+        {
             "label": "2014/9/07",
             "linkLabel": "live.html",
             "detail" : "LIVE情報を更新しました！"
@@ -117,5 +125,5 @@
             "linkLabel": "bio.html",
             "detail" : "新しいアーティスト写真を公開しました！！"
         }
-    ]
+    ] 
 }  

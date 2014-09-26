@@ -311,7 +311,8 @@ font-family:"Osaka";
 
 .title{
 	width:78%;
-	margin:0 auto;}
+	margin:0 auto;
+	}
 
 
 
@@ -439,3 +440,9 @@ textarea.code{
 
 .center{
 	text-align:center;}
+	
+.archive{
+	font-family:"Osaka";
+	width:78%;
+	margin:0 auto;
+}
