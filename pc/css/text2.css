@@ -237,6 +237,7 @@ overflow:auto;	}
 width:70%;
 margin:0 auto;
 text-align:center;
+line-height: 150%;
 font-family:"Osaka";
 
 	}
@@ -252,6 +253,8 @@ font-family:"Osaka";
 .art_info{
 	width:50%;
 	margin:0 auto;
+	text-align:center;
+	line-height: 150%;
 	font-family:"Osaka"
 	}	
 
