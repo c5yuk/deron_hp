@@ -4,6 +4,9 @@
             "label": "2014/11/14 @新宿MARZ"
         }, 
         {  
+            "label": "2014/11/12 @TUSTAYA O-NEST"
+        }, 
+        {  
             "label": "2014/10/26 @下北沢GARAGE"
         }, 
         {  
@@ -83,6 +86,11 @@
         }
     ],
     "news": [
+        {
+            "label": "2014/10/16",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
         {
             "label": "2014/9/22",
             "linkLabel": "live.html",
