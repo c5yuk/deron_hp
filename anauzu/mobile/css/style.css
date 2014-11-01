@@ -1,0 +1,98 @@
+body{
+	width:100%;
+	background-size:100%;
+	}
+
+.logo{
+	float:0;
+	margin:0;
+	text-align:center;
+	}
+	
+	
+.MV{
+	width:100%;
+	}
+	
+.MV_area{
+	width:90%;
+	margin:0 auto;
+	}	
+	
+.lyrics{
+	width:100%;
+	}
+	
+.lyrics_area{
+	width:90%;
+	margin:0 auto;
+	}
+
+.lyrics_area p{
+	margin-bottom:35px;
+	}
+	
+.space{
+	min-height:100px;
+	}
+	
+p{
+	font-size:48px;
+	float:0 auto;
+	margin:0 auto;
+	line-height:90px;
+	}
+	
+.title{
+	font-size:50px;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight:400;
+	line-height:50px;
+	letter-spacing:8px;}
+	
+.blue{
+	color:#C00;
+	}
+	
+h1{
+	font-size:70px;
+	color:#C00;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	font-weight:bold;
+	}
+	
+.big{
+	font-size:60px;
+	color:#333399;
+	font-weight:bold;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	}
+	
+.mid{
+	font-size:50px;
+	color:#333;
+	font-weight:bold;
+	font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", "メイリオ", Meiryo, Osaka, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+	}
+	
+.footer{
+	width:100%;
+	background-color:#eae6e6;
+	text-align:center;
+	min-height:80px;
+	}
+	
+.footer p{
+	top:20px;
+	color:#09F;}
+	
+.s{
+	color:#09F;
+	font-weight:bold;
+	}
+
+	
+.h{
+	color:#C00;
+	font-weight:bold;
+	}
