@@ -1,7 +1,13 @@
 {
 	"liveTop": [  
 	    {  
+            "label": "2014/12/12 @渋谷 Milkyway"
+        }, 
+	    {  
             "label": "2014/12/2 @渋谷チェルシーホテル"
+        }, 
+        {  
+            "label": "2014/11/26 @栄タイトロープ"
         }, 
         {  
             "label": "2014/11/14 @新宿MARZ"
@@ -80,12 +86,14 @@
         },    
         {  
             "label": "2014/4/24　＠横浜B.B.street" 
-        },    
-        {  
-            "label": "2014/4/18　＠柏DOMe"
         }
     ],
     "news": [
+        {
+            "label": "2014/11/4",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
         {
             "label": "2014/10/28",
             "linkLabel": "live.html",
@@ -130,11 +138,6 @@
             "label": "2014/7/28",
             "linkLabel": "live.html",
             "detail" : "ロッキン決まりました！"
-        },  
-        {
-            "label": "2014/7/15",
-            "linkLabel": "live.html",
-            "detail" : "live情報を更新しました。"
         }
     ] 
 }  
