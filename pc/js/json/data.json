@@ -3,6 +3,9 @@
 	    {  
             "label": "2014/12/12 @渋谷 Milkyway"
         }, 
+        {  
+            "label": "2014/12/6 @新潟RIVERST"
+        }, 
 	    {  
             "label": "2014/12/2 @渋谷チェルシーホテル"
         }, 
@@ -83,12 +86,14 @@
         },    
         {  
             "label": "2014/4/28　＠横浜ギャラクシー" 
-        },    
-        {  
-            "label": "2014/4/24　＠横浜B.B.street" 
         }
     ],
     "news": [
+        {
+            "label": "2014/11/11",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
         {
             "label": "2014/11/4",
             "linkLabel": "live.html",
