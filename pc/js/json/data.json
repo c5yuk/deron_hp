@@ -1,5 +1,8 @@
 {
 	"liveTop": [  
+	    {
+	    "label": "2015/3/24 @新宿 LOFT"
+        }, 
 	    {  
             "label": "2014/12/12 @渋谷 Milkyway"
         }, 
@@ -83,12 +86,14 @@
         },    
         {  
             "label": "2014/5/15　＠横浜B.B.street"
-        },    
-        {  
-            "label": "2014/4/28　＠横浜ギャラクシー" 
         }
     ],
     "news": [
+        {
+            "label": "2014/12/27",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
         {
             "label": "2014/11/12",
             "linkLabel": "live.html",
