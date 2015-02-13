@@ -1,6 +1,12 @@
 {
 	"liveTop": [  
 	    {
+	    "label": "2015/4/10 @下北沢BASEMENT BAR"
+        }, 
+		{
+	    "label": "2015/3/28 @京都 MOJO"
+        }, 
+	    {
 	    "label": "2015/3/24 @新宿 LOFT"
         }, 
 	    {  
@@ -83,12 +89,19 @@
         },    
         {  
             "label": "2014/5/8　＠渋谷CHELSEA HOTEL" 
-        },    
-        {  
-            "label": "2014/5/15　＠横浜B.B.street"
         }
     ],
     "news": [
+        {
+            "label": "2015/2/10",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
+        {
+            "label": "2015/1/24",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
         {
             "label": "2014/12/27",
             "linkLabel": "live.html",
