@@ -9,6 +9,12 @@
 	    {
 	    "label": "2015/3/24 @新宿 LOFT"
         }, 
+        {
+	    "label": "2015/3/21 @心斎橋 Pangea"
+        }, 
+        {
+	    "label": "2015/3/10 @新宿 MARZ"
+        }, 
 	    {  
             "label": "2014/12/12 @渋谷 Milkyway"
         }, 
@@ -83,15 +89,14 @@
         },    
         {  
             "label": "2014/5/18　＠栄タイトロープ" 
-        },    
-        {  
-            "label": "2014/5/15　＠横浜B.B.street" 
-        },    
-        {  
-            "label": "2014/5/8　＠渋谷CHELSEA HOTEL" 
         }
     ],
     "news": [
+        {
+            "label": "2015/2/16",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
         {
             "label": "2015/2/10",
             "linkLabel": "live.html",
