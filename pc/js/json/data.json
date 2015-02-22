@@ -92,6 +92,11 @@
         }
     ],
     "news": [
+		{
+            "label": "2015/2/21",
+            "linkLabel": "live.html",
+            "detail" : "3/28のライブがSOLD OUTになりました！"
+        }, 
         {
             "label": "2015/2/16",
             "linkLabel": "live.html",
