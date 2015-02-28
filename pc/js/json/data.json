@@ -1,6 +1,9 @@
 {
 	"liveTop": [  
 	    {
+	    "label": "2015/4/21 @下北沢シェルター"
+        }, 
+	    {
 	    "label": "2015/4/10 @下北沢BASEMENT BAR"
         }, 
 		{
@@ -92,6 +95,11 @@
         }
     ],
     "news": [
+        {
+            "label": "2015/2/28",
+            "linkLabel": "live.html",
+            "detail" : "LIVE情報を更新しました！"
+        }, 
 		{
             "label": "2015/2/21",
             "linkLabel": "live.html",
