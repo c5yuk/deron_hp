@@ -1,6 +1,9 @@
 {
 	"liveTop": [  
 	    {
+	    "label": "2015/5/29 @下北沢GARAGE"
+        }, 
+		{
 	    "label": "2015/4/10 @下北沢BASEMENT BAR"
         }, 
 		{
@@ -92,6 +95,21 @@
         }
     ],
     "news": [
+		{
+            "label": "2015/3/18",
+            "linkLabel": "http://deronderonderon.com/DIESUKI/",
+            "detail" : "1st mini album 「DIE SUKI」リリース決定！特設サイトも公開だぜ！！！"
+        }, 
+		{
+            "label": "2015/3/18",
+            "linkLabel": "bio.html",
+            "detail" : "新しいアーティストビジュアルを公開しました！！"
+        }, 
+		{
+            "label": "2015/3/18",
+            "linkLabel": "live.html",
+            "detail" : "ライブ情報を更新しました"
+        }, 
 		{
             "label": "2015/3/1",
             "linkLabel": "http://deronderonderon.com/cdal/",
